@@ -1,0 +1,699 @@
+fileFormatVersion: 2
+guid: 7d122df5c614f914c83cfeb455795ea5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 834
+        width: 131
+        height: 186
+      alignment: 9
+      pivot: {x: 0.4614504, y: 0.522043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b7195760c68954198365dcfba40055
+      internalID: 502620315019648153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 834
+        width: 131
+        height: 186
+      alignment: 9
+      pivot: {x: 0.4614504, y: 0.522043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd758a31dd7b7a24b99ea7bc7d49b5bc
+      internalID: -5506836837943201585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10002
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 834
+        width: 131
+        height: 186
+      alignment: 9
+      pivot: {x: 0.4614504, y: 0.522043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7c063e027f6c848be5bc91318ff57f
+      internalID: -7942148876080930197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10003
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 834
+        width: 131
+        height: 186
+      alignment: 9
+      pivot: {x: 0.4614504, y: 0.522043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6da7825472842d47b67dc3da6283fc4
+      internalID: -8621973449630820351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10004
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 834
+        width: 131
+        height: 186
+      alignment: 9
+      pivot: {x: 0.4614504, y: 0.522043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0c0b67a653f254ebce22cada4edd82
+      internalID: 4663492199909725178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10005
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 834
+        width: 131
+        height: 186
+      alignment: 9
+      pivot: {x: 0.4614504, y: 0.522043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90977587ce5ed8b42b68db35569a6c8b
+      internalID: -8913119610739946137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10006
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 834
+        width: 110
+        height: 186
+      alignment: 9
+      pivot: {x: 0.54954547, y: 0.522043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005a04181a4c8e542abb0943acae13df
+      internalID: -4904668509379673547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10007
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 834
+        width: 110
+        height: 186
+      alignment: 9
+      pivot: {x: 0.54954547, y: 0.522043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6134b9cba9337174a90fa8d35f1de9e8
+      internalID: 2362186723456762479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10008
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 834
+        width: 110
+        height: 186
+      alignment: 9
+      pivot: {x: 0.54954547, y: 0.522043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a226ab4e012e964e9c8cf9a77b172b8
+      internalID: 3072722594086098112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10009
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 834
+        width: 110
+        height: 186
+      alignment: 9
+      pivot: {x: 0.54954547, y: 0.522043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6719a7966f4eb4042a78cbce260e608d
+      internalID: 2715005224531360128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10010
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 834
+        width: 110
+        height: 186
+      alignment: 9
+      pivot: {x: 0.54954547, y: 0.522043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc06feaf04ab8a40952446dd63df196
+      internalID: -6257703101100635385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10011
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 834
+        width: 110
+        height: 186
+      alignment: 9
+      pivot: {x: 0.54954547, y: 0.522043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e271101f471851a4cb2d79748fd94c1a
+      internalID: -2606409061143848983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10012
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 834
+        width: 110
+        height: 186
+      alignment: 9
+      pivot: {x: 0.54954547, y: 0.522043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4f07dac1739964da97802f89515581
+      internalID: 6209343306796543184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10013
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 836
+        width: 163
+        height: 184
+      alignment: 9
+      pivot: {x: 0.3708589, y: 0.5222826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff13567e1ca4b945a1b2762bd2e2d9b
+      internalID: 380537920155438667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10014
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 836
+        width: 163
+        height: 184
+      alignment: 9
+      pivot: {x: 0.3708589, y: 0.5222826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd43f1a4efe9804eb9e9cdd801f5ff7
+      internalID: 1769168729057340814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10015
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 836
+        width: 163
+        height: 184
+      alignment: 9
+      pivot: {x: 0.3708589, y: 0.5222826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ef36fb4ad86434eace8835db92b561
+      internalID: 7890772028652266112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10016
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 836
+        width: 163
+        height: 184
+      alignment: 9
+      pivot: {x: 0.3708589, y: 0.5222826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9435a052d3b2e76428e6d5e44fb070ad
+      internalID: -717593934480063253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10017
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 836
+        width: 163
+        height: 184
+      alignment: 9
+      pivot: {x: 0.3708589, y: 0.5222826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97754817cc3a7d45b0ff499b813a1bb
+      internalID: 6567882632298298971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10018
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 836
+        width: 163
+        height: 184
+      alignment: 9
+      pivot: {x: 0.3708589, y: 0.5222826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52a5b20478377742b198719818ecf2a
+      internalID: -310613051434804076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10019
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 836
+        width: 171
+        height: 184
+      alignment: 9
+      pivot: {x: 0.35350877, y: 0.5222826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4050a2fe7fdbe4391c413d41f843bf
+      internalID: 2121374411048009740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10020
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 836
+        width: 171
+        height: 184
+      alignment: 9
+      pivot: {x: 0.35350877, y: 0.5222826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad7e25fe51bde540b5b8c6ab6f0d9d1
+      internalID: 2217578612774765345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10021
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 836
+        width: 171
+        height: 184
+      alignment: 9
+      pivot: {x: 0.35350877, y: 0.5222826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da056edea74bb7242895cbf5bf6bb56b
+      internalID: -3438912808476442229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10022
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 836
+        width: 171
+        height: 184
+      alignment: 9
+      pivot: {x: 0.35350877, y: 0.5222826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d2d3bedd507f94f9983598a3832a9b
+      internalID: 2877711544992735918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10023
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 836
+        width: 171
+        height: 184
+      alignment: 9
+      pivot: {x: 0.35350877, y: 0.5222826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985be558d126cb148ac1e91823916395
+      internalID: 7652914875232017011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10024
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 836
+        width: 171
+        height: 184
+      alignment: 9
+      pivot: {x: 0.35350877, y: 0.5222826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a8fa22ba6b36943b10f51ff07f23ee
+      internalID: -8066566739299760026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_iddle2 10025
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 836
+        width: 171
+        height: 184
+      alignment: 9
+      pivot: {x: 0.35350877, y: 0.5222826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33592cb529c79c94f8f54ffae7fe558a
+      internalID: -5619595248122738027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence PersoAnim_iddle2 10000: 502620315019648153
+      Occurrence PersoAnim_iddle2 10001: -5506836837943201585
+      Occurrence PersoAnim_iddle2 10002: -7942148876080930197
+      Occurrence PersoAnim_iddle2 10003: -8621973449630820351
+      Occurrence PersoAnim_iddle2 10004: 4663492199909725178
+      Occurrence PersoAnim_iddle2 10005: -8913119610739946137
+      Occurrence PersoAnim_iddle2 10006: -4904668509379673547
+      Occurrence PersoAnim_iddle2 10007: 2362186723456762479
+      Occurrence PersoAnim_iddle2 10008: 3072722594086098112
+      Occurrence PersoAnim_iddle2 10009: 2715005224531360128
+      Occurrence PersoAnim_iddle2 10010: -6257703101100635385
+      Occurrence PersoAnim_iddle2 10011: -2606409061143848983
+      Occurrence PersoAnim_iddle2 10012: 6209343306796543184
+      Occurrence PersoAnim_iddle2 10013: 380537920155438667
+      Occurrence PersoAnim_iddle2 10014: 1769168729057340814
+      Occurrence PersoAnim_iddle2 10015: 7890772028652266112
+      Occurrence PersoAnim_iddle2 10016: -717593934480063253
+      Occurrence PersoAnim_iddle2 10017: 6567882632298298971
+      Occurrence PersoAnim_iddle2 10018: -310613051434804076
+      Occurrence PersoAnim_iddle2 10019: 2121374411048009740
+      Occurrence PersoAnim_iddle2 10020: 2217578612774765345
+      Occurrence PersoAnim_iddle2 10021: -3438912808476442229
+      Occurrence PersoAnim_iddle2 10022: 2877711544992735918
+      Occurrence PersoAnim_iddle2 10023: 7652914875232017011
+      Occurrence PersoAnim_iddle2 10024: -8066566739299760026
+      Occurrence PersoAnim_iddle2 10025: -5619595248122738027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

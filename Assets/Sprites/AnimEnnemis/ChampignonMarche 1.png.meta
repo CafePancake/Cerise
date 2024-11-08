@@ -1,0 +1,633 @@
+fileFormatVersion: 2
+guid: 2478ce1a926944d4da2462033ba4c1d1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 835
+        width: 160
+        height: 185
+      alignment: 9
+      pivot: {x: 0.50968754, y: 0.44324324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335ed57eb2e120d4aa528940283319a9
+      internalID: 636399484672550368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 835
+        width: 160
+        height: 185
+      alignment: 9
+      pivot: {x: 0.50968754, y: 0.44324324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ca6a1002e9b78439c47803c86d1a39
+      internalID: 7263364096211056610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10002
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 835
+        width: 160
+        height: 185
+      alignment: 9
+      pivot: {x: 0.50968754, y: 0.44324324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311382c7dd18ce8419802ee356cb0614
+      internalID: 7799141004910131266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10003
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 835
+        width: 160
+        height: 185
+      alignment: 9
+      pivot: {x: 0.50968754, y: 0.44324324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b270823a1d7384cbbd5a322d437481
+      internalID: -7829933997724077526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10004
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 835
+        width: 160
+        height: 185
+      alignment: 9
+      pivot: {x: 0.50968754, y: 0.44324324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12143beed12f17548978dd58b33013a1
+      internalID: -7477823278830862268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10005
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 835
+        width: 160
+        height: 185
+      alignment: 9
+      pivot: {x: 0.50968754, y: 0.44324324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6171fad63e7b264ead69af864c911b2
+      internalID: -8864353300355658929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10006
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 835
+        width: 160
+        height: 185
+      alignment: 9
+      pivot: {x: 0.50968754, y: 0.44324324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db71b6b4ee853641aa4b8319abd8ff1
+      internalID: 7670700148253484403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10007
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 835
+        width: 160
+        height: 185
+      alignment: 9
+      pivot: {x: 0.50968754, y: 0.44324324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9313683fca97d904789d243305f88059
+      internalID: 6757574359604022935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10008
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 832
+        width: 158
+        height: 188
+      alignment: 9
+      pivot: {x: 0.49082285, y: 0.43617022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4840ea7d3c6c8f044b257991a0230ed7
+      internalID: 3500728309212132535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10009
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 832
+        width: 158
+        height: 188
+      alignment: 9
+      pivot: {x: 0.49082285, y: 0.43617022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75b4f6fc36f0a14fb9a8b42b7781ffa
+      internalID: -4066199923816991104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10010
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 832
+        width: 158
+        height: 188
+      alignment: 9
+      pivot: {x: 0.49082285, y: 0.43617022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fed1715df76bc488244e740a216ddc
+      internalID: 6123169028545301113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10011
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 832
+        width: 158
+        height: 188
+      alignment: 9
+      pivot: {x: 0.49082285, y: 0.43617022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a9b710420219742bffdc61082b9992
+      internalID: -4437390430627180312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10012
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 832
+        width: 158
+        height: 188
+      alignment: 9
+      pivot: {x: 0.49082285, y: 0.43617022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0f4c71282d324449844e6719c6ad2e
+      internalID: -3423267320163918787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10013
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 832
+        width: 158
+        height: 188
+      alignment: 9
+      pivot: {x: 0.49082285, y: 0.43617022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f610bea5f5edfd447ae8b662827a0590
+      internalID: 8783507150654154789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10014
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 832
+        width: 158
+        height: 188
+      alignment: 9
+      pivot: {x: 0.49082285, y: 0.43617022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794d8e2bcddf0334db66154b4d3bcb4d
+      internalID: 4657812658953576658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10015
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 835
+        width: 152
+        height: 185
+      alignment: 9
+      pivot: {x: 0.562829, y: 0.45945945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2c22fefe197ca44bcc49f271101ae8
+      internalID: -6846267088181824214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10016
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 835
+        width: 152
+        height: 185
+      alignment: 9
+      pivot: {x: 0.562829, y: 0.45945945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c12a0ba8a39df048bd152e2c7303282
+      internalID: -5506240808323861180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10017
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 835
+        width: 152
+        height: 185
+      alignment: 9
+      pivot: {x: 0.562829, y: 0.45945945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c856dc559e4d77b41bacec9385d27b4a
+      internalID: 1937791893009967505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10018
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 835
+        width: 152
+        height: 185
+      alignment: 9
+      pivot: {x: 0.562829, y: 0.45945945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3571f764c3262e479357ac24dca8a3d
+      internalID: 7913016573799420299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10019
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 835
+        width: 152
+        height: 185
+      alignment: 9
+      pivot: {x: 0.562829, y: 0.45945945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf56b90edafa1f946aa34cf2ddf1bac6
+      internalID: -1260684797630452277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10020
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 835
+        width: 152
+        height: 185
+      alignment: 9
+      pivot: {x: 0.562829, y: 0.45945945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b4c7fdb291f974a901a77fdc54df26
+      internalID: -6197429944086637831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10021
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 835
+        width: 152
+        height: 185
+      alignment: 9
+      pivot: {x: 0.562829, y: 0.45945945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a449cecbf30440349854f8be0bd74eef
+      internalID: -793732783781848777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimChampi 10022
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 835
+        width: 152
+        height: 185
+      alignment: 9
+      pivot: {x: 0.562829, y: 0.45945945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1fcea00b601574b9b52200f770c399
+      internalID: -7553984417562582995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence AnimChampi 10000: 636399484672550368
+      Occurrence AnimChampi 10001: 7263364096211056610
+      Occurrence AnimChampi 10002: 7799141004910131266
+      Occurrence AnimChampi 10003: -7829933997724077526
+      Occurrence AnimChampi 10004: -7477823278830862268
+      Occurrence AnimChampi 10005: -8864353300355658929
+      Occurrence AnimChampi 10006: 7670700148253484403
+      Occurrence AnimChampi 10007: 6757574359604022935
+      Occurrence AnimChampi 10008: 3500728309212132535
+      Occurrence AnimChampi 10009: -4066199923816991104
+      Occurrence AnimChampi 10010: 6123169028545301113
+      Occurrence AnimChampi 10011: -4437390430627180312
+      Occurrence AnimChampi 10012: -3423267320163918787
+      Occurrence AnimChampi 10013: 8783507150654154789
+      Occurrence AnimChampi 10014: 4657812658953576658
+      Occurrence AnimChampi 10015: -6846267088181824214
+      Occurrence AnimChampi 10016: -5506240808323861180
+      Occurrence AnimChampi 10017: 1937791893009967505
+      Occurrence AnimChampi 10018: 7913016573799420299
+      Occurrence AnimChampi 10019: -1260684797630452277
+      Occurrence AnimChampi 10020: -6197429944086637831
+      Occurrence AnimChampi 10021: -793732783781848777
+      Occurrence AnimChampi 10022: -7553984417562582995
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

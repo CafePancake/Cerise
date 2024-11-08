@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34ad4414c1677f2499c5baef9addd96a, type: 3}
+  m_Name: OBJManaPotion
+  m_EditorClassIdentifier: 
+  _nom: Solution de magie
+  _imgProduits: {fileID: -6718959189395166625, guid: ebd2139d4f792a24a8f8858cbe37dc30, type: 3}
+  _prix: 10
+  _niveauRequis: 1
+  _description: Une goutte sur la langue et vous sentirez un surplus de magie en
+    vous.
+  _peutDoubleSaut: 0
+  _peutAugmenterMana: 1
+  _venduAvecJoyauxVert: 0
+  _venduAvecJoyauxBleu: 1
+  _amelioreProjectile: 0

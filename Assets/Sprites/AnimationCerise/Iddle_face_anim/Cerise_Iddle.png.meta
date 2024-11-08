@@ -1,0 +1,1315 @@
+fileFormatVersion: 2
+guid: d92cda62de4463f4696ba2cdee0aa154
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5279be0cde9c5894a9b38101ac9fa0e3
+      internalID: -930034755959558920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9befd78e9575446925d5d83c4f2de4
+      internalID: 5980988501733688294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10002
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8fc43f5c1351f4fa4e5e2905e984e6
+      internalID: 1976274548776204576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10003
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e368959bd32a03947b7dc3585fdd36dc
+      internalID: 2529519061585816034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10004
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c614d0b417b44e042a05a1707339d375
+      internalID: -2816281829209978937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10005
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15378480601582846852b9b006217eff
+      internalID: 4337003962985979822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10006
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464089fd8b3f85548a29a139781ec20c
+      internalID: 7475591995909338726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10007
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d9e18d7c81d1d449a37d765189f2e7
+      internalID: 5196561655008911605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10008
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e0d08b82254054ba9687475cc6aa52
+      internalID: 3989863044084282666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10009
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98749aabec899184486d8110dadd0616
+      internalID: 6011341107528515791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10010
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de22ca1a1583684ab3a231bb6f21564
+      internalID: 444333426081866699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10011
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565a2c84e8cf99046abbbae853e9ad27
+      internalID: 9156197422962447501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10012
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361f2d08f34584b48aa5d5ac6be9a20b
+      internalID: 5950650328596266235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10013
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0836b8cdf0152854299719eb12e8d0a9
+      internalID: 5794327736711525140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10014
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbbc7ee6f0bb3e43aa5b1b8e239a3c4
+      internalID: -7007730221967133365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10015
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0139d10b3bd2f479d115f5da5ab49c
+      internalID: 7455869183910204482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10016
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40192c52ffae0e40a73c46c7b341342
+      internalID: -6576745728099878565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10017
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cfe2899e6113144bc35c4ae481919d
+      internalID: 8124358996173805460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10018
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e7d7248ccad494392c1f14a26f2359
+      internalID: 816620651659236123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10019
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf29b5ca8c4d0be4fb9b7904a4812dc9
+      internalID: 48172948088570423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10020
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc2d34d42ca5e8429e980b49ac3ee7a
+      internalID: 1047891147609050411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10021
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9433cc7d1894454fa970520007c0916
+      internalID: -5835690959493773341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10022
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dd59598b39caa4783801a002d18821
+      internalID: -2807798427599704996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10023
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a500c6197bf844ea701b02855e4083
+      internalID: 3244096606696555910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10024
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aaad7150f6e0241aba2f76e4b60684
+      internalID: 2062246167485939561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10025
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c42c6c32d2c584a801f7c4135926e9
+      internalID: -6668950186502029119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10026
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b94feda2c10334e8a94f7c80903bdf
+      internalID: 8267391623640854630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10027
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3ad06a19383dc4dbd31dcd870e4dbb
+      internalID: 8046244943570531977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10028
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409de24c972324b4388877e916ea1a11
+      internalID: -4425968947011078980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10029
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179a3117e5bfbe946a63c2bf0c2b5207
+      internalID: 977206444444618739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10030
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4876aa9a68310164fb2969cd8ac4e094
+      internalID: 442976572830055755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10031
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86af5f1eea0183644a45e7faa0f6d918
+      internalID: -4823600250446061008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10032
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4617119956a3ba4989e8a3c8c2a122b
+      internalID: -1626976670291451535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10033
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b275fd830032c5499bbffb113c99f48
+      internalID: 6811659815835032213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10034
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e86d38a609c464e956c9fdad40ac73
+      internalID: 891511025197286236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10035
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d933195b8b2d614da27cb9c8b89d695
+      internalID: 81591627838100485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10036
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26033f7171854da42a70a9b4772cf3c6
+      internalID: -6097694055804659007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10037
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9addfbd5e3ffd43ad26677a22bcd7d
+      internalID: -6801319449692755312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10038
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7659d72591734b3418f20f4ebeb86ede
+      internalID: -985196185510022490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10039
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec8f80038215a742a091ca1dc2aaa35
+      internalID: 2302502483117097469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10040
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2651d86c3288a44f9765c1001be100c
+      internalID: -253388556052445937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10041
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa566ebc9bf4f9458a74e58badb8d43
+      internalID: 2932980609665304092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10042
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddacaa4f34fd3d14cb4807206ac9f324
+      internalID: 7171392870026181030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10043
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab3cbdf16df1954dbb0e3febdeb7494
+      internalID: -650172801863756080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10044
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01269403b48dfa47b8038ee9a22221c
+      internalID: -4883863926042141384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10045
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b652e2fde5496ef42b8d7aebdf2c7684
+      internalID: 7529353740278721665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10046
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463629132a02493439ec5740b5468970
+      internalID: 2170823136956462459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10047
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef97cdbc19484049a0db1f731269340
+      internalID: 6852946390515137456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10048
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c773a84fe3d5441a0ae8983cb43435
+      internalID: 8165628348998051427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10049
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a312cea0adfe24e8b373ab2f43cba6
+      internalID: 5123281786247086612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10050
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a042a3cebfcfd4fbfa327edc6df60e
+      internalID: 5752238950440404605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10051
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdb10bed6a382d4a8c04b55413a8a2b
+      internalID: 5801372899100583010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10052
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 630
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd17b28162081a4486bba4b4e5520e9
+      internalID: -7123852667324683811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersonIddle_anim 10053
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 827
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.43315792, y: 0.52927464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1180c6b938f5d34ea9866f9b3454724
+      internalID: 8051092314612296336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence PersonIddle_anim 10000: -930034755959558920
+      Occurrence PersonIddle_anim 10001: 5980988501733688294
+      Occurrence PersonIddle_anim 10002: 1976274548776204576
+      Occurrence PersonIddle_anim 10003: 2529519061585816034
+      Occurrence PersonIddle_anim 10004: -2816281829209978937
+      Occurrence PersonIddle_anim 10005: 4337003962985979822
+      Occurrence PersonIddle_anim 10006: 7475591995909338726
+      Occurrence PersonIddle_anim 10007: 5196561655008911605
+      Occurrence PersonIddle_anim 10008: 3989863044084282666
+      Occurrence PersonIddle_anim 10009: 6011341107528515791
+      Occurrence PersonIddle_anim 10010: 444333426081866699
+      Occurrence PersonIddle_anim 10011: 9156197422962447501
+      Occurrence PersonIddle_anim 10012: 5950650328596266235
+      Occurrence PersonIddle_anim 10013: 5794327736711525140
+      Occurrence PersonIddle_anim 10014: -7007730221967133365
+      Occurrence PersonIddle_anim 10015: 7455869183910204482
+      Occurrence PersonIddle_anim 10016: -6576745728099878565
+      Occurrence PersonIddle_anim 10017: 8124358996173805460
+      Occurrence PersonIddle_anim 10018: 816620651659236123
+      Occurrence PersonIddle_anim 10019: 48172948088570423
+      Occurrence PersonIddle_anim 10020: 1047891147609050411
+      Occurrence PersonIddle_anim 10021: -5835690959493773341
+      Occurrence PersonIddle_anim 10022: -2807798427599704996
+      Occurrence PersonIddle_anim 10023: 3244096606696555910
+      Occurrence PersonIddle_anim 10024: 2062246167485939561
+      Occurrence PersonIddle_anim 10025: -6668950186502029119
+      Occurrence PersonIddle_anim 10026: 8267391623640854630
+      Occurrence PersonIddle_anim 10027: 8046244943570531977
+      Occurrence PersonIddle_anim 10028: -4425968947011078980
+      Occurrence PersonIddle_anim 10029: 977206444444618739
+      Occurrence PersonIddle_anim 10030: 442976572830055755
+      Occurrence PersonIddle_anim 10031: -4823600250446061008
+      Occurrence PersonIddle_anim 10032: -1626976670291451535
+      Occurrence PersonIddle_anim 10033: 6811659815835032213
+      Occurrence PersonIddle_anim 10034: 891511025197286236
+      Occurrence PersonIddle_anim 10035: 81591627838100485
+      Occurrence PersonIddle_anim 10036: -6097694055804659007
+      Occurrence PersonIddle_anim 10037: -6801319449692755312
+      Occurrence PersonIddle_anim 10038: -985196185510022490
+      Occurrence PersonIddle_anim 10039: 2302502483117097469
+      Occurrence PersonIddle_anim 10040: -253388556052445937
+      Occurrence PersonIddle_anim 10041: 2932980609665304092
+      Occurrence PersonIddle_anim 10042: 7171392870026181030
+      Occurrence PersonIddle_anim 10043: -650172801863756080
+      Occurrence PersonIddle_anim 10044: -4883863926042141384
+      Occurrence PersonIddle_anim 10045: 7529353740278721665
+      Occurrence PersonIddle_anim 10046: 2170823136956462459
+      Occurrence PersonIddle_anim 10047: 6852946390515137456
+      Occurrence PersonIddle_anim 10048: 8165628348998051427
+      Occurrence PersonIddle_anim 10049: 5123281786247086612
+      Occurrence PersonIddle_anim 10050: 5752238950440404605
+      Occurrence PersonIddle_anim 10051: 5801372899100583010
+      Occurrence PersonIddle_anim 10052: -7123852667324683811
+      Occurrence PersonIddle_anim 10053: 8051092314612296336
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

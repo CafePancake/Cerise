@@ -1,0 +1,1359 @@
+fileFormatVersion: 2
+guid: 02343cc165203ee48aaf5858f8695b24
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10000"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 831
+        width: 145
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5944827, y: 0.7198413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1c85ff2b05041478ae36108de22560
+      internalID: -4278666713678247746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10001"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 831
+        width: 145
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5944827, y: 0.7198413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250d2b50e82d40b488050eeefc8395d6
+      internalID: 2053369374605417773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10002"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 831
+        width: 145
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5944827, y: 0.7198413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa52772750c910f4485088bd066a412a
+      internalID: 5525486045653815282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10003"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 831
+        width: 145
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5944827, y: 0.7198413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c443902500a36428826939643e53b8
+      internalID: -4537120505980202789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10004"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 833
+        width: 147
+        height: 187
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b624ef2df02c82f41933996e076b734b
+      internalID: -6810949622784042014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10005"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 833
+        width: 147
+        height: 187
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabd081976011c14aa981c69786815d8
+      internalID: -9042013291836049978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10006"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 833
+        width: 147
+        height: 187
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582b8085d4a41b34fa1fb981cfe6a2bb
+      internalID: -4730543172117454177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10007"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 833
+        width: 147
+        height: 187
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed8ac48e98ef984d8eccc7ca380579f
+      internalID: 3032202872114856716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10008"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 833
+        width: 147
+        height: 187
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2328ba85130dc4fb2325a1f88e1890
+      internalID: 6677097574423059178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10009"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 833
+        width: 147
+        height: 187
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63de686771820374fb03e22877681ac1
+      internalID: 406581000881790222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10010"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 833
+        width: 147
+        height: 187
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cecb2bc8eec7e74b920c7bab4dc1e5d
+      internalID: -1019533353956452582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10011"
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 833
+        width: 155
+        height: 187
+      alignment: 9
+      pivot: {x: 0.55612904, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7d656077c60a8439130ecfaf22feef
+      internalID: 2274201549418812697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10012"
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 833
+        width: 155
+        height: 187
+      alignment: 9
+      pivot: {x: 0.55612904, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd24cda2c970e5043a9b9a31f15638cf
+      internalID: -8410186168250784750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10013"
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 833
+        width: 155
+        height: 187
+      alignment: 9
+      pivot: {x: 0.55612904, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb626b37a0663841a2f9f7449ada482
+      internalID: 6200197959270011824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10014"
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 833
+        width: 155
+        height: 187
+      alignment: 9
+      pivot: {x: 0.55612904, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c683a31c950d5744db466fade4ef1611
+      internalID: -597823371703386804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10015"
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 833
+        width: 155
+        height: 187
+      alignment: 9
+      pivot: {x: 0.55612904, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc337521d1482f049b3f5ffe8e83de75
+      internalID: 3595819579787033104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10016"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 835
+        width: 159
+        height: 185
+      alignment: 9
+      pivot: {x: 0.54213834, y: 0.6110811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87d8142b506a6345901f32d32fd7ae2
+      internalID: 5074134890435512245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10017"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 835
+        width: 159
+        height: 185
+      alignment: 9
+      pivot: {x: 0.54213834, y: 0.6110811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c19c5d62db3cb42bb24aa138be98e6
+      internalID: -7882850005363663467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10018"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 835
+        width: 159
+        height: 185
+      alignment: 9
+      pivot: {x: 0.54213834, y: 0.6110811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd363247417f9234fbd3d2be1d3b6ee9
+      internalID: 4324505685682439221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10019"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 835
+        width: 159
+        height: 185
+      alignment: 9
+      pivot: {x: 0.54213834, y: 0.6110811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0d15c7fc4832048a0cc1870d227e02
+      internalID: -6072838909041742865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10020"
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 836
+        width: 153
+        height: 184
+      alignment: 9
+      pivot: {x: 0.56339866, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1948095de913e6446856af5625206886
+      internalID: -2994980663105379744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10021"
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 836
+        width: 153
+        height: 184
+      alignment: 9
+      pivot: {x: 0.56339866, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c5ebb128290d34f876e158fed632dc
+      internalID: -783132993191252018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10022"
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 836
+        width: 153
+        height: 184
+      alignment: 9
+      pivot: {x: 0.56339866, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e0f869dfddf8b41b367a99f8bfb921
+      internalID: -4797074732946122462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10023"
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 836
+        width: 153
+        height: 184
+      alignment: 9
+      pivot: {x: 0.56339866, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d98b365f121534b8adb400b22226f0
+      internalID: 6558833990171981915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10024"
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 836
+        width: 153
+        height: 184
+      alignment: 9
+      pivot: {x: 0.56339866, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3312105b8f141c14ea1d7a2181da8237
+      internalID: -2331872426340028111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10025"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 643
+        width: 146
+        height: 184
+      alignment: 9
+      pivot: {x: 0.59041095, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f657432a7350cd45bf0a43990c3989f
+      internalID: 1883578895380883632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10026"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 643
+        width: 146
+        height: 184
+      alignment: 9
+      pivot: {x: 0.59041095, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2323a359982aa4146a1f404a5c216c3c
+      internalID: 59210241762887899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10027"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 643
+        width: 146
+        height: 184
+      alignment: 9
+      pivot: {x: 0.59041095, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cfb0e74a1c2994c8e1591491d51c6a
+      internalID: 1045660747031482270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10028"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 643
+        width: 146
+        height: 184
+      alignment: 9
+      pivot: {x: 0.59041095, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d035a316fe5b51c4382f2d77304963ea
+      internalID: 3267722417827826334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10029"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 643
+        width: 147
+        height: 184
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13ccce416cb44a4a871472c9b3b4366
+      internalID: 1788520661366331577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10030"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 643
+        width: 147
+        height: 184
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ac1738f4cf7684fb94c32f777d3eaa
+      internalID: 3620889193382794465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10031"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 643
+        width: 147
+        height: 184
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549ac73b33cba424b808e3be57243aa0
+      internalID: -5919280924401442437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10032"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 643
+        width: 147
+        height: 184
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58df37ceed1c6b74786c3b17c40ad7f1
+      internalID: 6756989100140966930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10033"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 643
+        width: 147
+        height: 184
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bef7bcafe2c7042833bffd66f2b05f
+      internalID: 6108859193999081978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10034"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 643
+        width: 153
+        height: 184
+      alignment: 9
+      pivot: {x: 0.56339866, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aade80d5336b1e94f89cca9c2932c7f9
+      internalID: 6358610570854904078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10035"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 643
+        width: 153
+        height: 184
+      alignment: 9
+      pivot: {x: 0.56339866, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5a7c432dea95540852b1081f72b2d4
+      internalID: -7747766832587686233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10036"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 643
+        width: 153
+        height: 184
+      alignment: 9
+      pivot: {x: 0.56339866, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a25da654e86ab42a7599a412952d77
+      internalID: 4445362771361342642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10037"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 643
+        width: 153
+        height: 184
+      alignment: 9
+      pivot: {x: 0.56339866, y: 0.6144022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62474bf62c2fc44492b40e95eff86cd
+      internalID: -2804825824182157390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10038"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 642
+        width: 159
+        height: 185
+      alignment: 9
+      pivot: {x: 0.54213834, y: 0.6110811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d23d948f13657459a85a7002cebbdc
+      internalID: -8966779955172699520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10039"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 642
+        width: 159
+        height: 185
+      alignment: 9
+      pivot: {x: 0.54213834, y: 0.6110811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76e153d71aa2f845921983037efb27c
+      internalID: 4379708196395326428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10040"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 642
+        width: 159
+        height: 185
+      alignment: 9
+      pivot: {x: 0.54213834, y: 0.6110811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d60d8f5e6d9cd4418d13ff40e33b9ee
+      internalID: 8247397193028192017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10041"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 642
+        width: 159
+        height: 185
+      alignment: 9
+      pivot: {x: 0.54213834, y: 0.6110811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318f850dc280a5f4e95bbcf0ce239757
+      internalID: 318748953227879664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10042"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 640
+        width: 155
+        height: 187
+      alignment: 9
+      pivot: {x: 0.55612904, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb0173cb16be1a40bf253a0f48eff53
+      internalID: 4849763569548202174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10043"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 640
+        width: 155
+        height: 187
+      alignment: 9
+      pivot: {x: 0.55612904, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd265ba4e34bedb45a7bd5f7da23ab1e
+      internalID: -593083031868626007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10044"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 640
+        width: 155
+        height: 187
+      alignment: 9
+      pivot: {x: 0.55612904, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87465ef309757848a29f4938bbd4291
+      internalID: 7100443799696783138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10045"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 640
+        width: 155
+        height: 187
+      alignment: 9
+      pivot: {x: 0.55612904, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6b6c5099dc9d1449d30b9228fc6f2d
+      internalID: 1026262954327677561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10046"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 640
+        width: 147
+        height: 187
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a30d027f665b942a2d2c88bd5a3cc0
+      internalID: 445876944111796804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10047"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 640
+        width: 147
+        height: 187
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ea77eb25398bd4bb81f0c64d09134f
+      internalID: 6096132659084684003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10048"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 640
+        width: 147
+        height: 187
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911abf97b7f13ba4ab6a49730aace5ed
+      internalID: -2470209578491570540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10049"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 640
+        width: 147
+        height: 187
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b69cc622a9387458802f8a91ba838c
+      internalID: -6487808779738508610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10050"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 640
+        width: 147
+        height: 187
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.6580214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f765dcff6805fe64ea6604e2db9d445f
+      internalID: 5256898465323040085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10051"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 447
+        width: 135
+        height: 189
+      alignment: 9
+      pivot: {x: 0.6385185, y: 0.7198413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dabdc3f2ff5de46af86c8868241010
+      internalID: 4868558824582133387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10052"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 447
+        width: 135
+        height: 189
+      alignment: 9
+      pivot: {x: 0.6385185, y: 0.7198413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a1ca18702187344ac45855c2ac013e
+      internalID: 5478860686254319410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10053"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 447
+        width: 135
+        height: 189
+      alignment: 9
+      pivot: {x: 0.6385185, y: 0.7198413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3a36bba38a5b743ad02d8016f2a584
+      internalID: 9003351367926212754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10054"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 447
+        width: 135
+        height: 189
+      alignment: 9
+      pivot: {x: 0.6385185, y: 0.7198413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbeafe7eb6537043af1361347525e37
+      internalID: 3554594627128208125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Occurrence AnimF\xE9e 10055"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 447
+        width: 135
+        height: 189
+      alignment: 9
+      pivot: {x: 0.6385185, y: 0.7198413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a340a4c290c5aad48aa1bc5bff43355e
+      internalID: 621735708460075110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Occurrence AnimF\xE9e 10000": -4278666713678247746
+      "Occurrence AnimF\xE9e 10001": 2053369374605417773
+      "Occurrence AnimF\xE9e 10002": 5525486045653815282
+      "Occurrence AnimF\xE9e 10003": -4537120505980202789
+      "Occurrence AnimF\xE9e 10004": -6810949622784042014
+      "Occurrence AnimF\xE9e 10005": -9042013291836049978
+      "Occurrence AnimF\xE9e 10006": -4730543172117454177
+      "Occurrence AnimF\xE9e 10007": 3032202872114856716
+      "Occurrence AnimF\xE9e 10008": 6677097574423059178
+      "Occurrence AnimF\xE9e 10009": 406581000881790222
+      "Occurrence AnimF\xE9e 10010": -1019533353956452582
+      "Occurrence AnimF\xE9e 10011": 2274201549418812697
+      "Occurrence AnimF\xE9e 10012": -8410186168250784750
+      "Occurrence AnimF\xE9e 10013": 6200197959270011824
+      "Occurrence AnimF\xE9e 10014": -597823371703386804
+      "Occurrence AnimF\xE9e 10015": 3595819579787033104
+      "Occurrence AnimF\xE9e 10016": 5074134890435512245
+      "Occurrence AnimF\xE9e 10017": -7882850005363663467
+      "Occurrence AnimF\xE9e 10018": 4324505685682439221
+      "Occurrence AnimF\xE9e 10019": -6072838909041742865
+      "Occurrence AnimF\xE9e 10020": -2994980663105379744
+      "Occurrence AnimF\xE9e 10021": -783132993191252018
+      "Occurrence AnimF\xE9e 10022": -4797074732946122462
+      "Occurrence AnimF\xE9e 10023": 6558833990171981915
+      "Occurrence AnimF\xE9e 10024": -2331872426340028111
+      "Occurrence AnimF\xE9e 10025": 1883578895380883632
+      "Occurrence AnimF\xE9e 10026": 59210241762887899
+      "Occurrence AnimF\xE9e 10027": 1045660747031482270
+      "Occurrence AnimF\xE9e 10028": 3267722417827826334
+      "Occurrence AnimF\xE9e 10029": 1788520661366331577
+      "Occurrence AnimF\xE9e 10030": 3620889193382794465
+      "Occurrence AnimF\xE9e 10031": -5919280924401442437
+      "Occurrence AnimF\xE9e 10032": 6756989100140966930
+      "Occurrence AnimF\xE9e 10033": 6108859193999081978
+      "Occurrence AnimF\xE9e 10034": 6358610570854904078
+      "Occurrence AnimF\xE9e 10035": -7747766832587686233
+      "Occurrence AnimF\xE9e 10036": 4445362771361342642
+      "Occurrence AnimF\xE9e 10037": -2804825824182157390
+      "Occurrence AnimF\xE9e 10038": -8966779955172699520
+      "Occurrence AnimF\xE9e 10039": 4379708196395326428
+      "Occurrence AnimF\xE9e 10040": 8247397193028192017
+      "Occurrence AnimF\xE9e 10041": 318748953227879664
+      "Occurrence AnimF\xE9e 10042": 4849763569548202174
+      "Occurrence AnimF\xE9e 10043": -593083031868626007
+      "Occurrence AnimF\xE9e 10044": 7100443799696783138
+      "Occurrence AnimF\xE9e 10045": 1026262954327677561
+      "Occurrence AnimF\xE9e 10046": 445876944111796804
+      "Occurrence AnimF\xE9e 10047": 6096132659084684003
+      "Occurrence AnimF\xE9e 10048": -2470209578491570540
+      "Occurrence AnimF\xE9e 10049": -6487808779738508610
+      "Occurrence AnimF\xE9e 10050": 5256898465323040085
+      "Occurrence AnimF\xE9e 10051": 4868558824582133387
+      "Occurrence AnimF\xE9e 10052": 5478860686254319410
+      "Occurrence AnimF\xE9e 10053": 9003351367926212754
+      "Occurrence AnimF\xE9e 10054": 3554594627128208125
+      "Occurrence AnimF\xE9e 10055": 621735708460075110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

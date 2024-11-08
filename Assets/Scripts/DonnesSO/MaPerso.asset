@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e9c8e40ef0e12640a6248b12412af2e, type: 3}
+  m_Name: MaPerso
+  m_EditorClassIdentifier: 
+  _evenements: {fileID: 11400000, guid: 22c2496f6cde9bd4fa6cb4f20e16171b, type: 2}
+  _niveauIn: 1
+  _nbJoyauxBleuIn: 0
+  _nbJoyauxVertIn: 0
+  _nbTempsJeuIn: 100
+  _nbPointsIn: 0
+  _scoreTotalIn: 0
+  _nbManaIn: 40
+  _nbVieIn: 10
+  _aDeDoubleSautIn: 0
+  _aAugmenterManaIn: 0
+  _acleIn: 0
+  _aProjectilesAmelioresIn: 0
+  _aBonbonIn: 00000000000000000000
+  _niveau: 1
+  _nbJoyauxBleu: 0
+  _nbJoyauxVert: 0
+  _nbTempsJeu: 100
+  _nbPoints: 0
+  _scoreTotal: 0
+  _nbMana: 40
+  _nbVie: 10
+  _aDeDoubleSaut: 0
+  _aAugmenterMana: 0
+  _acle: 0
+  _aProjectilesAmeliores: 0
+  _esterminerNiveau: 0
+  _aBonbon: 00000000000000000000
+  _estDansGas: 0
+  _estInvisible: 0

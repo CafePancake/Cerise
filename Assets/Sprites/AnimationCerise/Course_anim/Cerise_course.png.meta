@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: d1739a5f79412f341bb9855122e9f660
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 850
+        width: 186
+        height: 170
+      alignment: 9
+      pivot: {x: 0.3827957, y: 0.57794124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a0881a2bb5e7a4d8893927c89b7f6e
+      internalID: 9032250925549541130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 850
+        width: 186
+        height: 170
+      alignment: 9
+      pivot: {x: 0.3827957, y: 0.57794124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6843e33eb430ff342a0477eef01569bb
+      internalID: 812474823380232343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10002
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 850
+        width: 186
+        height: 170
+      alignment: 9
+      pivot: {x: 0.3827957, y: 0.57794124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e771b1824779b24a8d61d30acb2090d
+      internalID: -4509831484867590098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10003
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 850
+        width: 186
+        height: 170
+      alignment: 9
+      pivot: {x: 0.3827957, y: 0.57794124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52401c8e044cbc34884e812daa9f91d7
+      internalID: 1094464070563228835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10004
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 850
+        width: 186
+        height: 170
+      alignment: 9
+      pivot: {x: 0.3827957, y: 0.57794124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987b3dbff58eaf44c97be2e291e7ca5d
+      internalID: 394466020955479568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10005
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 850
+        width: 186
+        height: 170
+      alignment: 9
+      pivot: {x: 0.3827957, y: 0.57794124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aedeccb831c08e4dae5b1ab99b5fd76
+      internalID: 8324251266255608247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10006
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 839
+        width: 161
+        height: 181
+      alignment: 9
+      pivot: {x: 0.37391302, y: 0.5759669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e41843f950de041935440b9f771f78
+      internalID: -6543835631381599847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10007
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 839
+        width: 161
+        height: 181
+      alignment: 9
+      pivot: {x: 0.37391302, y: 0.5759669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c481618fd88cd2408e5e3b148190c73
+      internalID: -8677953462404944192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10008
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 839
+        width: 161
+        height: 181
+      alignment: 9
+      pivot: {x: 0.37391302, y: 0.5759669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb72a7a8db9a7bc44b350c85db6b615f
+      internalID: 1923099879165615908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10009
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 839
+        width: 161
+        height: 181
+      alignment: 9
+      pivot: {x: 0.37391302, y: 0.5759669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9660aabd30d822047a2c6841d56aab14
+      internalID: -399887256517514426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10010
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 846
+        width: 173
+        height: 174
+      alignment: 9
+      pivot: {x: 0.41734102, y: 0.58764374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2524188d4bf391042a497db1ce449132
+      internalID: 2776707750312119210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10011
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 846
+        width: 173
+        height: 174
+      alignment: 9
+      pivot: {x: 0.41734102, y: 0.58764374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426a5c971113c0b42a19320621ff2637
+      internalID: -2956342297757240581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10012
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 846
+        width: 173
+        height: 174
+      alignment: 9
+      pivot: {x: 0.41734102, y: 0.58764374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ae5764111b95740b1d6cf4025802a8
+      internalID: 891609850800016306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10013
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 846
+        width: 173
+        height: 174
+      alignment: 9
+      pivot: {x: 0.41734102, y: 0.58764374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7f9ae17481001428915fc54bc6a70d
+      internalID: 4989490637816225331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10014
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 846
+        width: 173
+        height: 174
+      alignment: 9
+      pivot: {x: 0.41734102, y: 0.58764374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aef60f1b195574dbf179d141022316
+      internalID: -3416393904945497780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10015
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 848
+        width: 156
+        height: 172
+      alignment: 9
+      pivot: {x: 0.475641, y: 0.5595931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aeac0b2040e4744190695562303a0ff
+      internalID: 8614772581701588272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10016
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 848
+        width: 156
+        height: 172
+      alignment: 9
+      pivot: {x: 0.475641, y: 0.5595931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a20489d262a50b4280020da13eeeb39
+      internalID: -5743519004259455603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10017
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 848
+        width: 156
+        height: 172
+      alignment: 9
+      pivot: {x: 0.475641, y: 0.5595931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3602fbe31c9761c428d91378d7a003d3
+      internalID: -4200212053875587696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10018
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 848
+        width: 156
+        height: 172
+      alignment: 9
+      pivot: {x: 0.475641, y: 0.5595931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2b5880cb5836041a99af734c0273f4
+      internalID: 4474176647011939758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10019
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 854
+        width: 147
+        height: 166
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.52560246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d46e29dab4d6d741a76147b4e1f52bc
+      internalID: -1923788832926964651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10020
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 854
+        width: 147
+        height: 166
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.52560246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fef4f1eb7f9234e877219701edc696
+      internalID: 566114333728999431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10021
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 854
+        width: 147
+        height: 166
+      alignment: 9
+      pivot: {x: 0.58639455, y: 0.52560246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cdf0c59ae4aab4c8296f61234dceda
+      internalID: -924516985111397881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10022
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 846
+        width: 120
+        height: 174
+      alignment: 9
+      pivot: {x: 0.4933333, y: 0.5933908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3412a1d33af9c1c428368129a4e13770
+      internalID: -492134975516419242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10023
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 846
+        width: 120
+        height: 174
+      alignment: 9
+      pivot: {x: 0.4933333, y: 0.5933908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fa9628a439dd44c897a276e5c9e9e0
+      internalID: -7089037789290394261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10024
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 846
+        width: 120
+        height: 174
+      alignment: 9
+      pivot: {x: 0.4933333, y: 0.5933908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7497d9166528b48bfd8201e686049f
+      internalID: 408658501418250477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10025
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 846
+        width: 120
+        height: 174
+      alignment: 9
+      pivot: {x: 0.4933333, y: 0.5933908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5550fc154123f34aa2677ccc285ae66
+      internalID: -5138959911133103348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10026
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 652
+        width: 132
+        height: 183
+      alignment: 9
+      pivot: {x: 0.44848484, y: 0.56967217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e0addafb6802e4e9637fd1d972a1f6
+      internalID: -2103706584967057193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10027
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 652
+        width: 132
+        height: 183
+      alignment: 9
+      pivot: {x: 0.44848484, y: 0.56967217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211dc2b5362ac9341b3f0360a4547f16
+      internalID: 7886151776276894428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10028
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 652
+        width: 132
+        height: 183
+      alignment: 9
+      pivot: {x: 0.44848484, y: 0.56967217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b618c89c1d2e6f4da3d5181aa19ca45
+      internalID: 5611868836688131533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10029
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 652
+        width: 132
+        height: 183
+      alignment: 9
+      pivot: {x: 0.44848484, y: 0.56967217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d3468ab7a98fa4ca638e48234c590b
+      internalID: -3736769181985572155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10030
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 652
+        width: 132
+        height: 183
+      alignment: 9
+      pivot: {x: 0.44848484, y: 0.56967217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b5463963007c845a937dffc6e226f6
+      internalID: 6308609047495034393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10031
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 650
+        width: 162
+        height: 185
+      alignment: 9
+      pivot: {x: 0.36543208, y: 0.5527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3bc6350d9fa524faf8217063618c87
+      internalID: 6095900904299917492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10032
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 650
+        width: 162
+        height: 185
+      alignment: 9
+      pivot: {x: 0.36543208, y: 0.5527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a84fd5f9e57ec4e9e959f84ac2e431
+      internalID: -957610322033969119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10033
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 650
+        width: 162
+        height: 185
+      alignment: 9
+      pivot: {x: 0.36543208, y: 0.5527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7559e1bd7df1d4397749d626a12eb0
+      internalID: 9196375353297510693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10034
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 650
+        width: 162
+        height: 185
+      alignment: 9
+      pivot: {x: 0.36543208, y: 0.5527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eec5ccce3a7de469ac1fe25c9b8c72
+      internalID: 7570932614951933936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence PersoAnim_course 10035
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 650
+        width: 162
+        height: 185
+      alignment: 9
+      pivot: {x: 0.36543208, y: 0.5527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08a6c177fa4c14429200481fa472743
+      internalID: 7220947660085082432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence PersoAnim_course 10000: 9032250925549541130
+      Occurrence PersoAnim_course 10001: 812474823380232343
+      Occurrence PersoAnim_course 10002: -4509831484867590098
+      Occurrence PersoAnim_course 10003: 1094464070563228835
+      Occurrence PersoAnim_course 10004: 394466020955479568
+      Occurrence PersoAnim_course 10005: 8324251266255608247
+      Occurrence PersoAnim_course 10006: -6543835631381599847
+      Occurrence PersoAnim_course 10007: -8677953462404944192
+      Occurrence PersoAnim_course 10008: 1923099879165615908
+      Occurrence PersoAnim_course 10009: -399887256517514426
+      Occurrence PersoAnim_course 10010: 2776707750312119210
+      Occurrence PersoAnim_course 10011: -2956342297757240581
+      Occurrence PersoAnim_course 10012: 891609850800016306
+      Occurrence PersoAnim_course 10013: 4989490637816225331
+      Occurrence PersoAnim_course 10014: -3416393904945497780
+      Occurrence PersoAnim_course 10015: 8614772581701588272
+      Occurrence PersoAnim_course 10016: -5743519004259455603
+      Occurrence PersoAnim_course 10017: -4200212053875587696
+      Occurrence PersoAnim_course 10018: 4474176647011939758
+      Occurrence PersoAnim_course 10019: -1923788832926964651
+      Occurrence PersoAnim_course 10020: 566114333728999431
+      Occurrence PersoAnim_course 10021: -924516985111397881
+      Occurrence PersoAnim_course 10022: -492134975516419242
+      Occurrence PersoAnim_course 10023: -7089037789290394261
+      Occurrence PersoAnim_course 10024: 408658501418250477
+      Occurrence PersoAnim_course 10025: -5138959911133103348
+      Occurrence PersoAnim_course 10026: -2103706584967057193
+      Occurrence PersoAnim_course 10027: 7886151776276894428
+      Occurrence PersoAnim_course 10028: 5611868836688131533
+      Occurrence PersoAnim_course 10029: -3736769181985572155
+      Occurrence PersoAnim_course 10030: 6308609047495034393
+      Occurrence PersoAnim_course 10031: 6095900904299917492
+      Occurrence PersoAnim_course 10032: -957610322033969119
+      Occurrence PersoAnim_course 10033: 9196375353297510693
+      Occurrence PersoAnim_course 10034: 7570932614951933936
+      Occurrence PersoAnim_course 10035: 7220947660085082432
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

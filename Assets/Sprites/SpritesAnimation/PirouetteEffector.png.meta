@@ -1,0 +1,1734 @@
+fileFormatVersion: 2
+guid: 0d10c364557cafa4db2edd3a2d1082db
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1854
+        width: 140
+        height: 190
+      alignment: 9
+      pivot: {x: 0.32642856, y: 0.5476316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0674982a93374804c980f9c954e7418e
+      internalID: 67007616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1854
+        width: 140
+        height: 190
+      alignment: 9
+      pivot: {x: 0.32642856, y: 0.5476316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d083bfff67b1bdb48af7787fdfbdbe8e
+      internalID: -834426430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10002
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1854
+        width: 140
+        height: 190
+      alignment: 9
+      pivot: {x: 0.32642856, y: 0.5476316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f828addde9b45649896ec2b36572f67
+      internalID: -1564855742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10003
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1854
+        width: 140
+        height: 190
+      alignment: 9
+      pivot: {x: 0.32642856, y: 0.5476316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0779e922ff307847898df1b1548fc9c
+      internalID: -1978616806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10004
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1854
+        width: 140
+        height: 190
+      alignment: 9
+      pivot: {x: 0.32642856, y: 0.5476316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0babf2907b8e66459397deb07e899a4
+      internalID: 74438307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10005
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1854
+        width: 140
+        height: 190
+      alignment: 9
+      pivot: {x: 0.32642856, y: 0.5476316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fad1257af90b1349a62cf8c7427e0e7
+      internalID: 1322102052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10006
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1854
+        width: 140
+        height: 190
+      alignment: 9
+      pivot: {x: 0.32642856, y: 0.5476316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8b8af5eb47de34ba8d6833256e5d2e
+      internalID: 158587620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10007
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1854
+        width: 140
+        height: 190
+      alignment: 9
+      pivot: {x: 0.32642856, y: 0.5476316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09f767931fdcf742a780f9cabf097cd
+      internalID: -312872022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10008
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1860
+        width: 139
+        height: 184
+      alignment: 9
+      pivot: {x: 0.32877696, y: 0.5383153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f494af118577e59468441d05450dc6f8
+      internalID: -792479343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10009
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1860
+        width: 139
+        height: 184
+      alignment: 9
+      pivot: {x: 0.32877696, y: 0.5383153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162a68ff3d0d1c648b78ee54e2e80897
+      internalID: -1009494616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10010
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1860
+        width: 139
+        height: 184
+      alignment: 9
+      pivot: {x: 0.32877696, y: 0.5383153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1da1462dcd39746b3c911b6d6f26cb
+      internalID: 501095127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10011
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1860
+        width: 139
+        height: 184
+      alignment: 9
+      pivot: {x: 0.32877696, y: 0.5383153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84503222d056c804cb9c254bbac2845e
+      internalID: 608467346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10012
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1860
+        width: 139
+        height: 184
+      alignment: 9
+      pivot: {x: 0.32877696, y: 0.5383153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a8594fb994dbf469034cf2947784b0
+      internalID: 664770023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10013
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1860
+        width: 139
+        height: 184
+      alignment: 9
+      pivot: {x: 0.32877696, y: 0.5383153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819b465da46562842ab8ac9af692ead6
+      internalID: -157407961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10014
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1860
+        width: 139
+        height: 184
+      alignment: 9
+      pivot: {x: 0.32877696, y: 0.5383153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eead7ad646063d448aa4f0c3431154f
+      internalID: 545703030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10015
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1860
+        width: 139
+        height: 184
+      alignment: 9
+      pivot: {x: 0.32877696, y: 0.5383153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af62acfda207b249bf03f7c3317ddca
+      internalID: -158548363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10016
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1863
+        width: 116
+        height: 181
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.54723763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ce11950a8bd3146b5c47962fbc6cd2
+      internalID: 1763909633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10017
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1863
+        width: 116
+        height: 181
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.54723763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfdd19e41c975f4584703522223b109
+      internalID: 2037629822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10018
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1863
+        width: 116
+        height: 181
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.54723763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c2bae8af4dd064ca4819590d43506f
+      internalID: -888424358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10019
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1863
+        width: 116
+        height: 181
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.54723763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05785a2fb3ea127409719139ad52993b
+      internalID: -1556433815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10020
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1863
+        width: 116
+        height: 181
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.54723763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76438a0d92319c641a1db523d2ab32ef
+      internalID: 515980258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10021
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1863
+        width: 116
+        height: 181
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.54723763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dbcf64a6a73e0498fbb8ffefba037a
+      internalID: -252941753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10022
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1863
+        width: 116
+        height: 181
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.54723763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec33daddf6c90804aa5f169d4083c123
+      internalID: 1184570663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10023
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1863
+        width: 116
+        height: 181
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.54723763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a093a9def8e384aabeb4369fa0982a
+      internalID: 340823734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10024
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1856
+        width: 148
+        height: 188
+      alignment: 9
+      pivot: {x: 0.31554052, y: 0.43643624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff1a545a749aad479b0243818dcef31
+      internalID: 487492637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10025
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1856
+        width: 148
+        height: 188
+      alignment: 9
+      pivot: {x: 0.31554052, y: 0.43643624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e802fdbc4581a234db26eb304f301313
+      internalID: -2083970833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10026
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1856
+        width: 148
+        height: 188
+      alignment: 9
+      pivot: {x: 0.31554052, y: 0.43643624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb26cfe4b26a7594592f7232f35a3460
+      internalID: -231201623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10027
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1856
+        width: 148
+        height: 188
+      alignment: 9
+      pivot: {x: 0.31554052, y: 0.43643624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4c3f97470173f43b3fe6c0e1bff0c9
+      internalID: 801076123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10028
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1856
+        width: 148
+        height: 188
+      alignment: 9
+      pivot: {x: 0.31554052, y: 0.43643624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace1b20366f48ec4aa95700c94872a20
+      internalID: -1825337041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10029
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1856
+        width: 148
+        height: 188
+      alignment: 9
+      pivot: {x: 0.31554052, y: 0.43643624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b004eefb6853e440be3f3004438635b
+      internalID: -34500470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10030
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1856
+        width: 148
+        height: 188
+      alignment: 9
+      pivot: {x: 0.31554052, y: 0.43643624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d546ece7a1b6045a48bfb27a288d43
+      internalID: -205729548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10031
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1856
+        width: 148
+        height: 188
+      alignment: 9
+      pivot: {x: 0.31554052, y: 0.43643624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e5b943ee966204e9953aab1df68e37
+      internalID: 496289575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10032
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1856
+        width: 125
+        height: 188
+      alignment: 9
+      pivot: {x: 0.3656, y: 0.37792557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c07ec82571efb4ca11616a4d38cdce
+      internalID: -209063821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10033
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1856
+        width: 125
+        height: 188
+      alignment: 9
+      pivot: {x: 0.3656, y: 0.37792557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629e136ff016c53449c3fb805615895e
+      internalID: 1182851264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10034
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1856
+        width: 125
+        height: 188
+      alignment: 9
+      pivot: {x: 0.3656, y: 0.37792557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83523785069b1be45bac45a66b1de14b
+      internalID: 1489888575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10035
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1856
+        width: 125
+        height: 188
+      alignment: 9
+      pivot: {x: 0.3656, y: 0.37792557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006738212a4548f4b9ecec12f0c8d98e
+      internalID: 1920285858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10036
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1856
+        width: 125
+        height: 188
+      alignment: 9
+      pivot: {x: 0.3656, y: 0.37792557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd550d4ea65c64498b2f412633e702e
+      internalID: 1398213996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10037
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1856
+        width: 125
+        height: 188
+      alignment: 9
+      pivot: {x: 0.3656, y: 0.37792557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd72ed5607729564ea0843113f4b09aa
+      internalID: -2120778519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10038
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1856
+        width: 125
+        height: 188
+      alignment: 9
+      pivot: {x: 0.3656, y: 0.37792557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc982f334f15be40ba4775a32df343c
+      internalID: -241961960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10039
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1856
+        width: 125
+        height: 188
+      alignment: 9
+      pivot: {x: 0.3656, y: 0.37792557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1b8404445e113469cf5e07df4151e3
+      internalID: -624523039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10040
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1843
+        width: 116
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.4231344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2894f56306f3d064d93ff226b2c17268
+      internalID: -896822328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10041
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1843
+        width: 116
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.4231344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aa1ec667b04424baf1e807361c6a49
+      internalID: -1961274495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10042
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1843
+        width: 116
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.4231344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52db1a055d234464bbe752d5182ee99e
+      internalID: 862816530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10043
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1843
+        width: 116
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.4231344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77fae0ecadae984bb87ae9b00adc19e
+      internalID: 1777340738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10044
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1843
+        width: 116
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.4231344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e73855f72b0314486282582f9d4def
+      internalID: 1002258158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10045
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1843
+        width: 116
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.4231344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279c7f432d267e441bc0f9014dfbc4f6
+      internalID: -257962079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10046
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1843
+        width: 116
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.4231344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed438e9a9debf784b9ac3ad20d093c72
+      internalID: -378581320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10047
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1843
+        width: 116
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.4231344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a109c2b993e25f04ba8b2fe1ce81fa4b
+      internalID: 1041723544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10048
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1843
+        width: 116
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.4281095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8630e5cf548ef404a9dabc494b631a4f
+      internalID: 1040739363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10049
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1843
+        width: 116
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.4281095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd570ce0b2c1af43a09f9cb2dde4327
+      internalID: -426308477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10050
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1843
+        width: 116
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.4281095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f2e9f6ad97629449a73bddbce6d33f
+      internalID: 1001303343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10051
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1843
+        width: 116
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.4281095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5b48da0320d8443a88836e64f49604
+      internalID: 1102954647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10052
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1843
+        width: 116
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.4281095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e777b86b8a0811e4e81c94a70a57ca66
+      internalID: -553840328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10053
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1843
+        width: 116
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.4281095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d43f7be495afc74aaa3bf1560eac18a
+      internalID: 1308329485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10054
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1843
+        width: 116
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.4281095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b5480438e342a4484c13ad650dad96
+      internalID: -846501283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10055
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1843
+        width: 116
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4025862, y: 0.4281095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81eaea07db1cfb47aae7e95553f7c35
+      internalID: -320105187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10056
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1872
+        width: 176
+        height: 172
+      alignment: 9
+      pivot: {x: 0.3903409, y: 0.34912798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f870296209ee24e8c2a194f6a6171a
+      internalID: 538718354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10057
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1872
+        width: 176
+        height: 172
+      alignment: 9
+      pivot: {x: 0.3903409, y: 0.34912798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f971a62e7eeae0049b11565d4d69f923
+      internalID: 1806130669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10058
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1872
+        width: 176
+        height: 172
+      alignment: 9
+      pivot: {x: 0.3903409, y: 0.34912798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f74b1c43cb70d4ba8e45d283d7c2b3
+      internalID: 879467137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10059
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1872
+        width: 176
+        height: 172
+      alignment: 9
+      pivot: {x: 0.3903409, y: 0.34912798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e04e21a7aa45f0499a1e0efbd3238ad
+      internalID: 2046915009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10060
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1872
+        width: 176
+        height: 172
+      alignment: 9
+      pivot: {x: 0.3903409, y: 0.34912798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff26a41cb823794a929ba2450a53d5f
+      internalID: -1241638954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10061
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1863
+        width: 150
+        height: 181
+      alignment: 9
+      pivot: {x: 0.69799995, y: 0.49751386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659f5ed9f4a57fe4c81627bf8ca8afb1
+      internalID: 1568635349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10062
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1863
+        width: 150
+        height: 181
+      alignment: 9
+      pivot: {x: 0.69799995, y: 0.49751386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52393f79cf7378045bc35ec773c0d61d
+      internalID: -256931221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10063
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1863
+        width: 150
+        height: 181
+      alignment: 9
+      pivot: {x: 0.69799995, y: 0.49751386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0230f066549be814e9859420fe390b03
+      internalID: -1373273124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10064
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1863
+        width: 150
+        height: 181
+      alignment: 9
+      pivot: {x: 0.69799995, y: 0.49751386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccb9ccd7b799df44abc3cdc05e14f7f
+      internalID: -1887724118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10065
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1867
+        width: 168
+        height: 177
+      alignment: 9
+      pivot: {x: 0.4863095, y: 0.71214694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e351ecb19c79e45878778a7ee9290a
+      internalID: -2000359801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10066
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1867
+        width: 168
+        height: 177
+      alignment: 9
+      pivot: {x: 0.4863095, y: 0.71214694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2cee2c39d1866409c07f3191c4ac53
+      internalID: -22444423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10067
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1867
+        width: 168
+        height: 177
+      alignment: 9
+      pivot: {x: 0.4863095, y: 0.71214694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a983db09c5b7704ebff8971625d4af7
+      internalID: -324247730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10068
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1867
+        width: 168
+        height: 177
+      alignment: 9
+      pivot: {x: 0.4863095, y: 0.71214694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5186a629b20fd89459a48bb957b88174
+      internalID: 1487756110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10069
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1867
+        width: 168
+        height: 177
+      alignment: 9
+      pivot: {x: 0.4863095, y: 0.71214694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cce0dc8f89004f43bd833f72f86d801
+      internalID: 1846698842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10070
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1867
+        width: 168
+        height: 177
+      alignment: 9
+      pivot: {x: 0.4863095, y: 0.71214694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8246b3d83eac46f4ea8403ae4a1bc513
+      internalID: 661853929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10071
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1855
+        width: 157
+        height: 189
+      alignment: 9
+      pivot: {x: 0.34203818, y: 0.37063497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b46942681e1b84a85b66dcd988e6cf
+      internalID: 935829530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10072
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1855
+        width: 157
+        height: 189
+      alignment: 9
+      pivot: {x: 0.34203818, y: 0.37063497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d566866a3dfc84fb963afeaaf9a71b
+      internalID: -1297400976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10073
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1855
+        width: 157
+        height: 189
+      alignment: 9
+      pivot: {x: 0.34203818, y: 0.37063497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7548ded4ad6d7a4e882f7839e84a33d
+      internalID: -644615052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10074
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1855
+        width: 157
+        height: 189
+      alignment: 9
+      pivot: {x: 0.34203818, y: 0.37063497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c279b87b703eb134581ce700857bc938
+      internalID: 653817578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence AnimPirouetteEffector 10075
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1855
+        width: 157
+        height: 189
+      alignment: 9
+      pivot: {x: 0.34203818, y: 0.37063497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07297c7a99f2af54f937591071d06a97
+      internalID: -788058475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PirouetteEffector_0: 1222859371
+      PirouetteEffector_1: -380189348
+      PirouetteEffector_10: 1674894813
+      PirouetteEffector_2: 1061783908
+      PirouetteEffector_3: -1145588840
+      PirouetteEffector_4: 1325957025
+      PirouetteEffector_5: -476020005
+      PirouetteEffector_6: 1415739885
+      PirouetteEffector_7: 914986534
+      PirouetteEffector_8: -486734273
+      PirouetteEffector_9: 2070789418
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

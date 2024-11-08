@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97e560cf6332eff4299617b6288d12fd, type: 3}
+  m_Name: MySoundManager
+  m_EditorClassIdentifier: 
+  _sonMarche: {fileID: 8300000, guid: 615912ebd71457348a8cdb107b7a3118, type: 3}
+  _sonAterrissage: {fileID: 8300000, guid: 5b5dfb6941a156b49b6707fdf4c2f2bc, type: 3}
+  _sonSaut: {fileID: 8300000, guid: cbd5cf127131c0e40a556cd69e3dbc24, type: 3}
+  _sonClef: {fileID: 8300000, guid: a967bf52454ed94448f55d8d8f6af574, type: 3}
+  _sonPorte: {fileID: 8300000, guid: 0caea6455fa20fb46accb1a880a132b6, type: 3}
+  _sonLoup: {fileID: 8300000, guid: c0ab5838ce2802844ae3bc1f13a5436f, type: 3}
+  _sonMort: {fileID: 8300000, guid: 89d3e6422d073e84f8fed0573fd49518, type: 3}
+  _sonDouleur: {fileID: 8300000, guid: 19a90eb46becfc04c8b6a9f73ecb2286, type: 3}
+  _sonGronement: {fileID: 8300000, guid: 2017f825745f3f84791dcf82abcec9f1, type: 3}
+  _sonEfffector: {fileID: 8300000, guid: fe7d21d623ea87e4a88e78c5f8cc5135, type: 3}
+  _sonExplosion: {fileID: 8300000, guid: 4a0681c0efa6c194586074318852a04e, type: 3}
+  _sonProjectille: {fileID: 8300000, guid: a5239cb5cff968546ae87f628d792fb4, type: 3}
+  _pitchMin: 1
+  _pitchMax: 1.2
