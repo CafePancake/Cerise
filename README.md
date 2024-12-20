@@ -17,4 +17,4 @@ Ce LISEZ-MOI explique comment faire fonctionner le projet.
 * Veuillez développer les nouvelles fonctionnalités sur vos branches personnelles avant de les fusionner à la branche principale (*main*)
 
 ### Contact ###
-* [https://tim-cstj.ca/](https://www.linkedin.com/in/carl-dumais/)
+* [Linkedin](https://www.linkedin.com/in/carl-dumais/)
